@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'fasd awef awee awef aeaefwa '
+title: yn3g9difzh
 date: 2020-03-05T17:30:20.039Z
 description: >-
   We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
