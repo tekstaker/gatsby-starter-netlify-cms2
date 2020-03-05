@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week2'
+title: 'Just in: small batch of Jamaican Blue Mountain in store next week DEMO'
 date: 2020-03-05T17:30:05.750Z
 description: >-
   We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
